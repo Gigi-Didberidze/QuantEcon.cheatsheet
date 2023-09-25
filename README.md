@@ -19,8 +19,8 @@ To build the project, follow these steps:
 
     Clean the project and make html files:
     ```shell
-    make clean
-    make html
+    make clean OR ./make clean
+    make html OR ./make html
     ```
 
 3. **Modify code cells**
